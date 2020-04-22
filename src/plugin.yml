@@ -1,0 +1,9 @@
+name: KillCommand
+author: Popcwrn
+description: /kill command for manarchy.club ;D
+version: "1.0"
+main: me.popcwrn.KillCommand.Main
+commands:
+    kill:
+      description: Suicide Command.
+      usage: /kill
